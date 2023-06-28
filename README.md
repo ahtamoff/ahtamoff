@@ -16,7 +16,7 @@
 ## Давайте общаться!
 Я всегда открыт для новых возможностей и интересных проектов. Если вы хотите обсудить идеи или просто пообщаться, не стесняйтесь связаться со мной.
 
-Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-fatkheev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/fatkheev)
+Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Ahtyamov_Ramil-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ahtyamov_Ramil)
 
 ---
 
@@ -25,10 +25,10 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=fatkheev&theme=dark&background=000000" alt="webDev's Github stats" />
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=ahtamoff&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fatkheev&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahtamoff&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
